@@ -1,3 +1,8 @@
 Ejemplito:
 Ejemplito: Linea 2
 Ejemplito: Linea 3
+
+Configuracion de git (gitBash)
+
+git config --global user.name "vladimir-ascue"
+git config --global user.email "vladimir.ascue@gmail.com"
